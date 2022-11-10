@@ -4,15 +4,22 @@ Welcome to my profile, my name is [__Ju__.](https://www.linkedin.com/in/juliana-
 
 I'd like to share with you some information about myself, so make yourself confortable and scroll down the page!
 
-- 🔎   I'm a curious person that loves learning new things and tecnologies. 
+- 🔎   I'm a curious person that loves learning new things and tecnologies.
+- 🧬   Self-learning.
 - 💻   Currently front-end developer.
 - ✈️    Former aircraft maintenance mechanic.
-- 🧬   Self-learning.
+
+<br />
+
+What I seek professionally: 
+- [ ] Front-End developer  
+- [ ] Back-End developer  
+- [x] Full-Stack developer 
 
 <br />
 <br /> 
   
-## Tech and Tools
+## 🛠 Tech and Tools that I'm working with
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
@@ -26,7 +33,7 @@ I'd like to share with you some information about myself, so make yourself confo
 <br />
 <br />
 
-## Future Learning Goals
+## 🌱 Future Learning Goals
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" height="40" width="52" alt="graphql logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" width="52" alt="graphql logo"  /> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" width="52" alt="postgresql logo"  />
@@ -36,7 +43,7 @@ I'd like to share with you some information about myself, so make yourself confo
 <br />
 
 
-## Stats
+## 🧮 Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt&locale=pt-br&hide_border=true&username=yuliaribeiro" height="150" alt="stats graph"  />
 </div>
@@ -44,7 +51,7 @@ I'd like to share with you some information about myself, so make yourself confo
 <br />
 <br />
 
-## Let's connect!
+## 🎈 Let's connect!
 
 [![My LinkedIn profile](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juliana-ribeiro-039883220/)
 
