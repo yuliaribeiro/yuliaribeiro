@@ -7,7 +7,6 @@ I'd like to share with you some information about myself, so make yourself confo
 - 🔎   I'm a curious person that loves learning new things and tecnologies.
 - 🧬   Self-learning.
 - 💻   Currently front-end developer.
-- ✈️    Former aircraft maintenance mechanic.
 
 <br />
 
